@@ -21,12 +21,14 @@
 | `Tools`       | ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ! |
 | `Frameworks`       | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) |
 
-
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandusayhi&show_icons=true&locale=en&layout=compact" alt="chandusayhi" /></p>
 <br>
 
 ![Chandrakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandusayhi&show_icons=true&theme=tokyonight) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandusayhi&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
+</div>
 
+ 
 ### Connect With Me💻
 <p align="left" align='right'>
 <a target="_blank"href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqWgqcbSJkrhBzhtCLzMJDhHVpDpnrRJFgQcVHGkCvsxQDKhhqprfwFkWvgnzlxfkwzMpL"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
