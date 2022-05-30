@@ -38,6 +38,6 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![Snake animation](https://github.com/chandusayhi/snake/blob/main/github-contribution-grid-snake.svg)
 
 ### <p align="center"> LeArNiNg NeVeR EnDs Welcome ! </p>
