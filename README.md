@@ -37,7 +37,12 @@
 <a target="_blank"href="https://www.kaggle.com/chandu22">	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 
 <br>
-
+<div>
+<a href="https://github.com/chandusayhi/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chandusayhi"> 
+</div>
+ 
+ 
 ![Snake animation](https://github.com/chandusayhi/snake/blob/main/github-contribution-grid-snake.svg)
 
 ### <p align="center"> LeArNiNg NeVeR EnDs Welcome ! </p>
