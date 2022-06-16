@@ -11,6 +11,11 @@
 
 - 💬 Ask me about Deep Learning  :)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandusayhi" alt="chandusayhi" /></a> </p>
+
+
+
 ### 🍁 My Skill stack :
 
 |               |           |
