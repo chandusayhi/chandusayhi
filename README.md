@@ -1,3 +1,7 @@
+
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F78740&size=36&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+Chandrakant's+Profile!)](https://git.io/typing-svg)
+
 <h1 align="center">👋 Welcome to the Sea of Data Knowledge, I am Chandrakant Hatti</h1>
 <h3 align="center">An aspiring Data Scientist with a knowledge to explore and extract insights not visible to the rmal eye</h3>
 
@@ -47,6 +51,8 @@
     <img src="https://komarev.com/ghpvc/?username=chandusayhi"> 
 </div>
  
+ ## 🔥 Visitor Count ⇨
+![Visitor Count](https://profile-counter.glitch.me/{chandusayhi}/count.svg)
  
 ![Snake animation](https://github.com/chandusayhi/snake/blob/main/github-contribution-grid-snake.svg)
 
