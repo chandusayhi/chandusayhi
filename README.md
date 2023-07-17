@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F78740&size=36&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+Chandrakant's+Profile!)](https://git.io/typing-svg)
 
 <h1 align="center">👋 Code craftsman building innovative solutions with passion and precision, I am Chandrakant Hatti</h1>
-<h3 align="center">An aspiring Data Scientist with a knowledge to explore and extract insights not visible to the rmal eye</h3>
+<h3 align="center">An aspiring React Developer with a knowledge to explore and extract insights not visible to the normal eye</h3>
 
 - 🌱 I’m currently learning **MERN concepts through comprehensive learning and practical application.**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandusayhi/]()
  
-- 💬 Ask me about Python, Machine Learning  :) 
+- 💬 Ask me about React.JS, REDUX  :) 
 
 - 💬 Ask me about Responsive Web Pages  :)
 
