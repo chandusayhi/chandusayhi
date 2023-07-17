@@ -5,7 +5,7 @@
 <h1 align="center">👋 Code craftsman building innovative solutions with passion and precision, I am Chandrakant Hatti</h1>
 <h3 align="center">An aspiring Data Scientist with a knowledge to explore and extract insights not visible to the rmal eye</h3>
 
-- 🌱 I’m currently learning **Driven to excel as a MERN developer through comprehensive learning and practical application.**
+- 🌱 I’m currently learning **MERN concepts through comprehensive learning and practical application.**
 
 - 🌐 Devoted to mastering MERN technologies through in-depth study and hands-on experience. 
 
@@ -13,7 +13,7 @@
  
 - 💬 Ask me about Python, Machine Learning  :) 
 
-- 💬 Ask me about Deep Learning  :)
+- 💬 Ask me about Responsive Web Pages  :)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandusayhi" alt="chandusayhi" /></a> </p>
